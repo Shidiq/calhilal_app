@@ -2,7 +2,7 @@
 
 A beautiful, responsive, dark-themed web dashboard for astronomical Hilal (New Moon) calculations. Built to support multiple local and global crescent visibility criteria validation (Wujudul Hilal, MABIMS, and KHGT Global).
 
-![Dashboard UI Preview](https://via.placeholder.com/1200x600/121212/00e676?text=Calhilal+Dashboard) *(Replace with actual image if desired)*
+![Dashboard UI Preview](assets/img.png)
 
 ## ✨ Features
 
